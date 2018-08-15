@@ -4,10 +4,8 @@ email: ashishratnawat452@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is Ashish's Blog to unroll everything related to Machine Learning.
 
-# social links
 twitter_username: ashish_ratn
 github_username:  ashish-ratn
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
 theme: minima
