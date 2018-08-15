@@ -1,12 +1,11 @@
-title: The Journey to conquer AI 
-author: Ashish Ratnawat 
-email: your- ashishratnawat452@gmail.com
+title: Journey to AI
+author: ashish ratnawat
+email: ashishratnawat452@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey there, this is my blog for AI
-# social links
+ This is Ashish's Blog to unroll everything related to Machine Learning.
+
 twitter_username: ashish_ratn
 github_username:  ashish-ratn
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: jekyll-theme-architect
+theme: minima
